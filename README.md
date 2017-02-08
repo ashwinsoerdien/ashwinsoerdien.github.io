@@ -1,4 +1,4 @@
-# Ashwin Soerdien's Resume
+# ASHWIN SOERDIEN - RESUME
 
 ## PROFILE
 A multi-disciplined Software Engineer with over 6 years of experience in developing Software-as-a-Service applications for automating data collection and inventory tracking.  I have an extensive background in the software development life-cycle through the design, programming, testing, and implementation of mobile, desktop, and web applications. My goal is to join an ambitious team that uses technology in exciting ways to solve urgent problems.
